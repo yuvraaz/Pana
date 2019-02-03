@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Pana</string>
+  <string name="label_student">I Am Student</string>
+  <string name="label_teacher">I Am Teacher</string>
+</resources>
